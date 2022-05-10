@@ -1,2 +1,2 @@
 # size
-size of repo
+size of repo, with lfs
